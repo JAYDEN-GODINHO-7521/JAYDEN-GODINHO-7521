@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JAYDEN-GODINHO-7521
-- 👀 I’m interested in applications of AI/ML in data science and I love programming in general
+- 👀 I’m interested in applications of AI/ML and data science also I love programming in general
 - 🌱 I’m currently pursuing Bachelors of computer science and engineering with major in AL/ML - Third year
 - 💞️ I’m looking to collaborate on any open source project mostly relating to data science
 - 📫 How to reach me : godinhojayden4587@gmail.com
